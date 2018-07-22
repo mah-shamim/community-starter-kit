@@ -1,11 +1,28 @@
-# Your GitHub Learning Lab Repository for Community Starter Kit
+# Team Roundup bot: A Probot App
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+DESCRIPTION PLACEHOLDER
 
-Oh! I haven't introduced myself...
+## What it does
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
+FEATURES PLACEHOLDER
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+## Getting started
 
-I'll meet you over there, can't wait to get started!
+Team roundup bot is easy to use:
+1. To install the app for your team, visit URL
+1. Under selected repositories, select all of the apps you would like included in your roundup
+1. In the root of your team's primary repository, create a config file using the template provided in [the getting started guide](docs/getting-started.md)
+1. Get ready to reach new heights of productivity and collaboration!
+
+For more detailed instructions, check out our [Getting Started Guide](docs/getting-started.md).
+
+## Need help?
+
+If you need help using this app, we encourage you to:
+
+- Check out the [Getting Started Guide](docs/getting-started.md) in the docs folder of this repository
+- If you can't find the answer there, open an issue in this repository and add the label `question`
+
+## Project maintainers
+
+This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
