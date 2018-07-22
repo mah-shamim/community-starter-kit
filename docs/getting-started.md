@@ -1,13 +1,15 @@
 # Getting Started Guide
 
-This guide will help you get started using **Team Roundup bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
+This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
 
 ## Installing the bot
 
-The bot works by scanning each of your team's repositories to look for open issues and pull requests assigned to named team members. In order to scan a repository, the app must be installed on that repository. To install the app, use the following instructions:
+The bot works by providing a message on a contributor's first issue, pull request, or merged pull request. In order to scan a repository, the app must be installed on that repository. To install the app, use the following instructions:
 
-1. Access the bot installation page [here](#)
-1. Under selected repositories, select each of the repositories you would like the bot to scan for open issues and pull requests.
+1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following Permissions and Events:
+
+- Pull requests: Read & Write
+- Issues: Read & Write
 
 ## Creating the config
 
