@@ -15,4 +15,30 @@ The bot works by providing a message on a contributor's first issue, pull reques
 
 The bot is designed to create messages when a user creates an issue, open a pull request, or merges a pull request. These messages are based on a config file in your repository. You will need to create a config file with the messages you want **welcome** to use. Your `.github/config.yml` should look something like this:
 
-CONFIGS PLACEHOLDER 
+## Creating the config
+
+The bot is designed to create messages when a user creates an issue, open a pull request, or merges a pull request. These messages are based on a config file in your repository. You will need to create a config file with the messages you want **welcome** to use. Your `.github/config.yml` should look something like this:
+
+```
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  NEW ISSUE PLACEHOLDER
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  NEW PULL REQUEST PLACEHOLDER
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  FIRST MERGED PULL REQUEST PLACEHOLDER
+
+# It is recommended to include as many gifs and emojis as possible!
+```
