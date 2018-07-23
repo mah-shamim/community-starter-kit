@@ -24,21 +24,19 @@ The bot is designed to create messages when a user creates an issue, open a pull
 
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
-# Comment to be posted to on first time issues
-newIssueWelcomeComment: >
-  NEW ISSUE PLACEHOLDER
-
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
-
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  NEW PULL REQUEST PLACEHOLDER
+  Thanks for opening this pull request! Please check out our contributing guidelines.
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  FIRST MERGED PULL REQUEST PLACEHOLDER
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
 
 # It is recommended to include as many gifs and emojis as possible!
 ```
+
+### Example Messages
+
+CONFIGS PLACEHOLDER
